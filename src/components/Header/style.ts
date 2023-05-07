@@ -34,3 +34,5 @@ export const NewTransactionButton = styled.button`
     transition: background-color 0.2s;
   }
 `
+
+
