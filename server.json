@@ -8,7 +8,6 @@
       "price": 1400,
       "createdAt": "2023-05-12T20:17:33.333Z"
     },
-
     {
       "id": 2,
       "description": "Jogos",
@@ -16,6 +15,14 @@
       "category": "Lazer",
       "price": 300,
       "createdAt": "2023-05-12T20:10:33.333Z"
+    },
+    {
+      "description": "academia",
+      "price": 80,
+      "category": "saude",
+      "type": "outcome",
+      "createdAt": "2023-05-26T20:04:19.269Z",
+      "id": 3
     }
   ]
 }
