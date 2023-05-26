@@ -23,6 +23,14 @@
       "type": "outcome",
       "createdAt": "2023-05-26T20:04:19.269Z",
       "id": 3
+    },
+    {
+      "description": "god of war",
+      "price": 300,
+      "category": "jogos",
+      "type": "outcome",
+      "createdAt": "2023-05-26T20:26:15.563Z",
+      "id": 4
     }
   ]
 }
