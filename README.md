@@ -67,3 +67,14 @@ https://www.radix-ui.com/
   - npm install react-hook-form
   - npm i @hookform/resolvers </br>
   > Utilizado para validar as informações do schema criado pelo zod
+
+- Contexts
+ - npm i use-context-selector scheduler
+ > Trabalhar com contextos separados
+
+
+ - Important!!
+ ``` npx tsc --noEmit ```
+
+ > Mostrar no terminal os erros de typescript no código
+
