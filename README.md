@@ -31,7 +31,7 @@
 ## O que foi desenvolvido 🚀
 
 Aplicação onde você adiciona seus ganhos e gastos, e um painel mostra o seu saldo total.
-
+<!-- 
 <h3 align="center">Página inicial</h3>
 
 <img src="./src/assets/img/telaInicial.png"/>
@@ -41,7 +41,7 @@ Aplicação onde você adiciona seus ganhos e gastos, e um painel mostra o seu s
 
 <div align="center"><img src="./src/assets/img/addNewData.png"/></div>
 
-</br></br>
+</br></br> -->
 
 ## Como foi desenvolvido 📋
 
@@ -61,7 +61,6 @@ https://www.radix-ui.com/
     - npm install zod 
   > Utilizado para criar um schema dos dados do formulário
   </br>
-  <img src="./src/assets/img/zod.png">
 
 - hookforms
   - npm install react-hook-form
