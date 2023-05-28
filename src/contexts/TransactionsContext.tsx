@@ -64,7 +64,7 @@ export function TransactionsProvider({ children }: TransactionsProviderProps) {
   // executar somente uma vez a chamada para a api
   useEffect(() => {
     fetchTransactions()
-  }, [])
+  }, [fetchTransactions])
 
   // children reconhece qualquer elemento html
   return (
